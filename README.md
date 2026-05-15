@@ -1,2 +1,3 @@
 # trilha_de_python
-Curso de Phython feito pela for_code
+Curso de Python feito pela for_code
+Feito em 2026
