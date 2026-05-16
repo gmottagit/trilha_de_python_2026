@@ -4,7 +4,7 @@
 
 # Desafio 1
 Esse programa tem como objetivo ajudar o usuário a decidir se uma viagem é viavel ou não de acordo com um orçamento previamente estabelecido.
-Ao rodar, o programa irá solicitar ao usuário os dados: 
+Ao rodar o desafio1.py, o programa irá solicitar ao usuário os dados: 
 1. Orçamento disponível (reais).
 2. Destino da viagem.
 3. Custo da passagem (reais).
