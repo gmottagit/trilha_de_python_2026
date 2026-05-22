@@ -34,3 +34,7 @@ Perguntas teóricas:
 ■ O que acontece se tentarmos somar uma variável do tipo str com uma do tipo float
 
 - O Python gera um erro do tipo (TypeError).
+
+
+# Desafio 2
+Este programa tem como objetivo simular a lógica de um jogo de batalhas de cartas (TCG). Nele dois monstros lutam em turnos até que a vida de um seja igual a 0. Após cada rodada, o programa mostra o placar atual do combate com as respectivas vidas de cada monstro. Para testar o programa, você deve rodar o arquivo simulador_tcg.py em uma maquina que contenha o Python ou então através de uma ferramenta online como o Google Colab. Ao rodar o arquivo, o 
